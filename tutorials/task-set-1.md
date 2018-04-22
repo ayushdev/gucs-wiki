@@ -13,4 +13,4 @@
 |7.|What’s new in HTML5|devesh||:x:|
 |8.|[What is NPM and why use it. Commonly used NPM commands](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-npm-and-basic-npm-commands-18aa16f69f6b)|dharmateja||:heavy_check_mark:|
 |9.|[Explanation of Cache API](https://medium.com/beginners-guide-to-mobile-web-development/cache-me-if-you-can-7f68788b9da2)|ritikrishu||:heavy_check_mark:|
-|10.|What’s new in CSS3|devesh||:x:|
+|10.|What’s new in CSS3|AK||:x:|
