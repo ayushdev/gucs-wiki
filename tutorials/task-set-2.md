@@ -2,7 +2,7 @@
 
 #### Deadline: 19th March 2018(Monday) 21:00 hours
 
-|Task Number|Topic|Assignee (slack handle)|GitHub|Assigned Time and Date|Status|
+|Task Number|Topic|Assignee (slack handle)|GitHub|Assigned Date and Time|Status|
 |---|---|---|---|---|---|
 |1.|Javascript Debugging using Modern Tools|devesh|||:x:|
 |2.|[Arrow Function in Javascript](https://medium.com/beginners-guide-to-mobile-web-development/arrow-functions-in-js-c9281627ce15)|Gurpal||NA|:heavy_check_mark:|
